@@ -1,0 +1,2 @@
+﻿WebSite: tra cứu điểm thi
+	- chạy localhost:1234/hung.
